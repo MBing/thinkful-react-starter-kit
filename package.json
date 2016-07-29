@@ -1,0 +1,26 @@
+{
+  "name": "thinkful-react-starter-kit",
+  "version": "0.1.0",
+  "description": "Thinkful starter kit for React projects",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "mocha --reporter progress tools/testSetup.js \\\"src/**/*.test.js\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBing/thinkful-react-starter-kit.git"
+  },
+  "keywords": [
+    "thinkful",
+    "react",
+    "starter",
+    "kit",
+    "javascript"
+  ],
+  "author": "Martin Bing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBing/thinkful-react-starter-kit/issues"
+  },
+  "homepage": "https://github.com/MBing/thinkful-react-starter-kit#readme"
+}
