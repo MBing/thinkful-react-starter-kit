@@ -25,6 +25,9 @@ build
 .Trashes
 Thumbs.db
 
+# IDE generated files
+.idea*
+
 # Optional npm cache directory
 .npm
 
